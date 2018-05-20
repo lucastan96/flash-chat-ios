@@ -1,2 +1,2 @@
 # flash-chat-ios
-WhatsApp clone iOS app using Firebase
+Flash Chat is a simple WhatsApp clone iOS app made with Swift 4, powered by Firebase Auth & Firebase Realtime Database. Android version also available: https://github.com/lucastan96/flash-chat-android
